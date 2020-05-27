@@ -1,2 +1,2 @@
 # Practical-Machine-Learning---Johns-Hopkins-University
-Final Project
+This is the final assignment within the Practical-Machine-Learning coursera course.
